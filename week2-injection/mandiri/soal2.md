@@ -28,7 +28,7 @@ Login sebagai **administrator** dengan memanfaatkan SQL Injection di form login.
    WASD
    ```
 4. Klik **Login**.
-5. Berhasil masuk sebagai **administrator**. ✅
+5. Berhasil masuk sebagai **administrator**. 
 
 ---
 
