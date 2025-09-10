@@ -1,4 +1,4 @@
-# 📝 Write-up: SQL Injection Login Bypass
+#  Write-up: SQL Injection Login Bypass
 
 ## Judul Lab
 
