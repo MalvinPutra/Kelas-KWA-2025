@@ -28,21 +28,13 @@ Login sebagai **administrator** dengan memanfaatkan SQL Injection di form login.
    WASD
    ```
 4. Klik **Login**.
+
+<img width="958" height="501" alt="image" src="https://github.com/user-attachments/assets/3ab5b007-f4b5-4b4a-87a5-0cc39b450dda" />
+
+
 5. Berhasil masuk sebagai **administrator**. 
 
----
-
-## Inti Kerentanan
-
-* Query SQL awal kira-kira seperti:
-
-  ```sql
-  SELECT * FROM users WHERE username = 'administrator'--' AND password = 'WASD'
-  ```
-* Bagian `--` adalah komentar SQL, jadi pengecekan password diabaikan.
-* Hasilnya, aplikasi langsung menganggap login sukses.
-
----
+<img width="845" height="264" alt="image" src="https://github.com/user-attachments/assets/5b19463b-d374-4b6b-8d9a-084c33bdca22" />
 
 ## Kesimpulan
 
@@ -50,6 +42,4 @@ Login sebagai **administrator** dengan memanfaatkan SQL Injection di form login.
 * Dampak: Penyerang bisa login tanpa tahu password asli.
 * Solusi: Gunakan **prepared statements / parameterized queries** dan jangan pernah menggabungkan input user langsung ke query SQL.
 
-
-Mau aku bikinin 5 write-up pendek kaya gini biar langsung jadi bahan tugas GitHub kamu?
 
