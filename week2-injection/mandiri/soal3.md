@@ -15,8 +15,7 @@
 
    ```
    /filter?category=Corporate'
-
-```
+   ```
    <img width="267" height="82" alt="image" src="https://github.com/user-attachments/assets/4ce723b1-acda-456b-a71e-c6e92a1961b8" />
 
    → Hasilnya muncul **500 Internal Server Error**, artinya vulnerable.
