@@ -9,7 +9,7 @@
    jim@juice-sh.op'--
    ```
 
-   Di kolom **Password**, isi bebas (contoh: `12345`).
+   Di kolom **Password**, isi bebas (contoh: `WASD`).
 3. Klik tombol **Login**.
 4. Karena query SQL dipotong dengan `'--`, password tidak lagi divalidasi.
 
