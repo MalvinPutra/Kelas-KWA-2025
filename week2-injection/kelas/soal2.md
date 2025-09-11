@@ -20,4 +20,5 @@
 ### Hasil
 
 * Berhasil login sebagai **Jim** tanpa mengetahui password aslinya.
-* Challenge **“Login Jim”** ditandai *Solved*. 
+<img width="313" height="311" alt="image" src="https://github.com/user-attachments/assets/103e2dd8-5cc6-4f42-9ba2-a3f8f45704d1" />
+
