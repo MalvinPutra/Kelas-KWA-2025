@@ -12,6 +12,7 @@
 
 
    Isi **Password** dengan teks bebas (misalnya: `wasd`).
+   
 3. Klik tombol **Login**.
 4. Payload `'--` mengabaikan validasi password pada query SQL.
 
