@@ -12,7 +12,9 @@
    Di kolom **Password**, isi bebas (contoh: `12345`).
 3. Klik tombol **Login**.
 4. Karena query SQL dipotong dengan `'--`, password tidak lagi divalidasi.
-![Uploading Screenshot 2025-09-11 110906.png…]()
+
+<img width="667" height="685" alt="Screenshot 2025-09-11 110906" src="https://github.com/user-attachments/assets/98f68a47-5c78-4797-ab21-fc78a26fcfd6" />
+
 
 
 ### Hasil
